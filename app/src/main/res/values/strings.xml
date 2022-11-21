@@ -17,5 +17,20 @@
     <string name="danangNim">V3421030</string>
     <string name="danangTglLahir">06 Juli 2000</string>
     <string name="danangAsal">Kab Wonogiri</string>
-
+    <string name="adwinNama">Adwin Fajar Putro</string>
+    <string name="adwinNim">V3421004</string>
+    <string name="adwinAsal">Surakarta</string>
+    <string name="adwinTglLahir">13 Mei 2001</string>
+    <string name="AfifNama">Afif Nugroho</string>
+    <string name="AfifNim">V3421005</string>
+    <string name="AfifAsal">Kab Bantul</string>
+    <string name="AfifTglLahir">13 Oktober 2002</string>
+    <string name="burhanNama">Burhan Aji Wardana</string>
+    <string name="burhanNim">V3421025</string>
+    <string name="burhanAsal">Kab Sragen</string>
+    <string name="burhanTglLahir">25 Februari 2003</string>
+    <string name="chesaNama">Chesa Sadewa Eka Langga</string>
+    <string name="chesaNim">V3421027</string>
+    <string name="chesaAsal">Pontianak</string>
+    <string name="chesaTglLahir">13 September 2000</string>
 </resources>
