@@ -5,38 +5,37 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Bagas_Page">
+    tools:context=".Burhan_Page">
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
-        android:background="#6D9FEA"
+        android:background="#e9e9e9"
         android:orientation="vertical"
-        android:paddingHorizontal="15dp"
-        android:paddingVertical="20dp">
-
+        android:paddingVertical="20dp"
+        android:paddingHorizontal="15dp">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="20dp"
             android:drawableStart="@drawable/ic_baseline_chevron_left_24"
+            android:textSize="16sp"
             android:text="@string/kembali"
             android:textColor="#333"
-            android:textSize="16sp" />
+            android:layout_marginBottom="20dp"/>
 
         <ImageView
-            android:id="@+id/img_Afif"
+            android:id="@+id/img_burhan"
             android:layout_width="wrap_content"
             android:layout_height="200dp"
-            android:contentDescription="@string/AfifNama"
-            app:srcCompat="@drawable/Afif" />
+            app:srcCompat="@drawable/burhan"
+            android:contentDescription="@string/burhanNama"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="@string/AfifNama"
+            android:text="@string/burhanNama"
             android:textAlignment="center"
             android:textColor="#333"
             android:textSize="24sp"
@@ -67,7 +66,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/AfifNim"
+            android:text="@string/burhanNim"
             android:textColor="#333"
             android:textSize="18sp" />
     </LinearLayout>
@@ -96,7 +95,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/AfifAsal"
+            android:text="@string/burhanAsal"
             android:textColor="#333"
             android:textSize="18sp" />
     </LinearLayout>
@@ -125,7 +124,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/AfifTglLahir"
+            android:text="@string/burhanTglLahir"
             android:textColor="#333"
             android:textSize="18sp" />
     </LinearLayout>
