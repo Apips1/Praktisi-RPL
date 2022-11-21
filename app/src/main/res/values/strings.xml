@@ -17,4 +17,8 @@
     <string name="adwinNim">V3421004</string>
     <string name="adwinAsal">Surakarta</string>
     <string name="adwinTglLahir">13 Mei 2001</string>
+    <string name="AfifNama">Afif Nugroho</string>
+    <string name="AfifNim">V3421005</string>
+    <string name="AfifAsal">Kab Bantul</string>
+    <string name="AfifTglLahir">13 Oktober 2002</string>
 </resources>

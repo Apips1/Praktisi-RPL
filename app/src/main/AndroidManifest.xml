@@ -14,7 +14,7 @@
         android:theme="@style/Theme.PraktisiRPL"
         tools:targetApi="31">
         <activity
-            android:name=".Adwin_Page"
+            android:name=".Afif_Page"
             android:exported="false" />
         <activity
             android:name=".Bagas_Page"
