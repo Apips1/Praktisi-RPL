@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Praktisi RPL</string>
+    <string name="kembali">Kembali</string>
+    <string name="nim">NIM</string>
+    <string name="asal">Asal</string>
+    <string name="tglLahir">Tanggal Lahir</string>
+    <string name="prodi">Prodi</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="bagasNama">Bagas Rizki Aji Wijaya</string>
+    <string name="bagasNim">V3421020</string>
+    <string name="bagasAsal">Kab Wonogiri</string>
+    <string name="bagasTglLahir">24 Agustus 2002</string>
+    <string name="allProdi">D3 Teknik Informatika</string>
+    <string name="allFakultas">Sekolah Vokasi</string>
+    <string name="is">:</string>
 </resources>
