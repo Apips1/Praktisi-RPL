@@ -13,4 +13,9 @@
     <string name="allProdi">D3 Teknik Informatika</string>
     <string name="allFakultas">Sekolah Vokasi</string>
     <string name="is">:</string>
+    <string name="danangNama">Danang Hadi Sutrisno</string>
+    <string name="danangNim">V3421030</string>
+    <string name="danangTglLahir">06 Juli 2000</string>
+    <string name="danangAsal">Kab Wonogiri</string>
+
 </resources>
